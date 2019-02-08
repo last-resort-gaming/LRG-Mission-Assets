@@ -78,4 +78,81 @@ class CfgSounds
 		titles[]	= { 0, "" };
 		length		= 15;
 	};
+	class glitched_vinyl
+	{
+		name		= "Glitched Vinyl";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\glitched_vinyl.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 110;
+	};
+	class ambient_sound_2
+	{
+		name		= "Ambient Sound (2)";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\ambient_sound_2.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 45;
+	};
+	class short_glitch_1
+	{
+		name		= "Short Glitch 1";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_1.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class short_glitch_2
+	{
+		name		= "Short Glitch 2";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_2.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class short_glitch_3
+	{
+		name		= "Short Glitch 3";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_3.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class short_glitch_4
+	{
+		name		= "Short Glitch 4";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_4.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class short_glitch_5
+	{
+		name		= "Short Glitch 5";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_5.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class short_glitch_6
+	{
+		name		= "Short Glitch 6";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_6.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class short_glitch_7
+	{
+		name		= "Short Glitch 7";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_7.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class short_glitch_8
+	{
+		name		= "Short Glitch 8";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\short_glitch_8.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 15;
+	};
+	class out_for_a_walk
+	{
+		name		= "Out For A Walk";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\out_for_a_walk.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 200;
+	};
 };
