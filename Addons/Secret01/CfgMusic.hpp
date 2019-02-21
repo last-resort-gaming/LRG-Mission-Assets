@@ -153,6 +153,13 @@ class CfgMusic
 		name		= "Out For A Walk";
 		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\out_for_a_walk.ogg", 2, 1, 200 };
 		titles[]	= { 0, "" };
-		length		= 200;
+		length		= 185;
+	};
+	class demo_1
+	{
+		name		= "Out For A Walk";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\demo_1.ogg", 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 270;
 	};
 };

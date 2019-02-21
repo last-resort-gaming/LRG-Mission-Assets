@@ -9,7 +9,7 @@ class CfgPatches
 		url = URL;
 		units[] = {};
 		requiredVersion = REQUIRED_VERSION;
-		requiredAddons[] = {"A3_UI_F","cba_main","cba_xeh"};
+		requiredAddons[] = {"A3_UI_F","cba_main","cba_xeh", "A3_Weapons_F"};
 		version = VERSION;
 		authors[] = {"Mokka"};
 		weapons[] = {};
