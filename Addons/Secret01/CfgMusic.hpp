@@ -393,4 +393,46 @@ class CfgMusic
 		titles[]	= { 0, "" };
 		length		= 15;
 	};
+	class tippers
+	{
+		name		= "Tippers";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\speech\tippers.ogg" , 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 10;
+	};
+	class nicky
+	{
+		name		= "Nicky";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\speech\nicky.ogg" , 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 10;
+	};
+	class shiny
+	{
+		name		= "Shiny";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\speech\shiny.ogg" , 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 10;
+	};
+	class kingy
+	{
+		name		= "Kingy";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\speech\kingy.ogg" , 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 10;
+	};
+	class john
+	{
+		name		= "John";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\speech\john.ogg" , 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 10;
+	};
+	class speech_1
+	{
+		name		= "Speech #1";
+		sound[]		= { "z\LRG Mission Assets\addons\secret01\Data\Audio\speech\speech_1.ogg" , 2, 1, 200 };
+		titles[]	= { 0, "" };
+		length		= 45;
+	};
 };
